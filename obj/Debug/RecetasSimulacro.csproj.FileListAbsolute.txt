@@ -1,0 +1,11 @@
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.csproj.AssemblyReference.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.csproj.SuggestedBindingRedirects.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.FrmAltaReceta.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.Properties.Resources.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.csproj.GenerateResource.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.csproj.CoreCompileInputs.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\bin\Debug\RecetasSimulacro.exe.config
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\bin\Debug\RecetasSimulacro.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\bin\Debug\RecetasSimulacro.pdb
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\RecetasSimulacro\obj\Debug\RecetasSimulacro.pdb
